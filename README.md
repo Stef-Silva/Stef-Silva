@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/stefani-c-silva](www.linkedin.com/in/stefani-c-silva)
 
-- ⚡ Fun fact **I'm Tolkien expert and back-end developer in my free time**
+- ⚡ Fun fact **Back-end developer with a passion for Tolkien**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
