@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Stefani</h1>
-<h3 align="center">A dedicated backend developer from Brazil</h3>
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5zY3lnb2t6bzFtMW5jNHNjZDZkeGZ1YTd1eDJ1c2xhaGpnN3FpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif"  />
+</div>
+<h1 align="center">Hello, I'm Stefani 👋</h1>
+<h3 align="center">A backend developer from Brazil with 5+ years of experience focused on building scalable, reliable, and cloud-native applications using Node.js and TypeScript.</h3>
+<h3 align="left">About Me 👩‍💻</h3>
 
-- 🌱 I’m currently learning **Nest.js to explore career opportunities in web development. I'm looking to build a strong foundation in backend development to pursue my career goals.**
+🌱 My journey has been a continuous deep dive into the JavaScript ecosystem, specializing in Node.js and TypeScript. I focus on building well-architected, efficient backend systems. Lately, I've been highly engaged with DevOps culture and the tooling ecosystem that supports the software lifecycle. I enjoy collaborating with diverse teams to build scalable applications, sharing knowledge, and continuously improving the way we build and deliver software.
 
-- 👯 I’m looking to collaborate on **building scalable and performant Node.js applications and projects with a diverse team to learn from different perspectives.**
+- 💻 Backend-focused engineer with experience designing APIs, microservices, and distributed systems
+- ⚙️ Strong background with Node.js, TypeScript, NestJS, Docker, AWS, and SQL/NoSQL databases
+- ☁️ Interested in DevOps culture, Developer Experience, and platform engineering
+- ✨ Experience working in agile teams and collaborating across different areas of product and engineering
+- 📚 Constantly learning and improving software architecture, cloud, and backend scalability practices
+- 🔮 **Fun fact:** Backend developer by profession, Middle-earth traveler by hobby! 🧙‍♀️
+- 🐾 Cat mom to Jinx and Pixie, my official (and unpaid) code reviewers
 
-- 📄 Know about my experiences [www.linkedin.com/in/stefani-c-silva](www.linkedin.com/in/stefani-c-silva)
-
-- ⚡ Fun fact **I'm a Tolkien expert and back-end developer in my free time**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can learn more about my professional experience on LinkedIn: </h3>
 <p align="left">
-<a href="www.linkedin.com/in/stefani-c-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stefani-c-silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stefani-c-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stefani-c-silva" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
